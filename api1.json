@@ -1,0 +1,19 @@
+{
+    "orderid": 123,
+    "adress": "falsa 123",
+    "status": "ready",
+    "articles": [
+        {
+
+     "name": "Torta",
+     "quantity": 25,
+     "dangerous": false
+    },
+    {
+     "name": "Veneno de hormigas",
+     "quantity": 10,
+     "dangerous": true
+    }
+
+    ]
+}
